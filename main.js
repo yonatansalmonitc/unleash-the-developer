@@ -21,3 +21,9 @@ function milestone1() {
 
 
 console.log('Hi')
+
+
+
+function addNumbers(num1, num2) {
+  console.log(num1 + num2)
+}
