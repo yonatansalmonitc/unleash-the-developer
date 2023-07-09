@@ -44,3 +44,8 @@ function dev1sfunction() {
 function printName(){
   console.log("Dror");
 }
+
+
+function printName() {
+  console.log('Yonatan')
+}
