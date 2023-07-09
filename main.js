@@ -46,5 +46,6 @@ function printName(){
 }
 
 
-
-const arr = [];
+function printName() {
+  console.log('Yonatan')
+}
