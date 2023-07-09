@@ -34,3 +34,9 @@ function greet(message) {
 function dev1sfunction() {
   console.log('DEV 1')
 }
+
+
+
+function dev1sfunction() {
+  console.log('DEV 1')
+}
