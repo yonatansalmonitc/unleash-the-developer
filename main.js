@@ -27,3 +27,8 @@ console.log('Hi')
 function greet(message) {
   console.log('Hi' + message)
 }
+
+
+function dev2sfunction() {
+  console.log('DEV 2')
+}
