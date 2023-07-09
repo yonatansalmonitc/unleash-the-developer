@@ -40,3 +40,7 @@ function dev1sfunction() {
 function dev1sfunction() {
   console.log('DEV 1')
 }
+
+function printName(){
+  console.log("Dror");
+}
