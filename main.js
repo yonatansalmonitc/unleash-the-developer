@@ -29,6 +29,6 @@ function greet(message) {
 }
 
 
-function dev2sfunction() {
-  console.log('DEV 2')
+function dev1sfunction() {
+  console.log('DEV 1')
 }
