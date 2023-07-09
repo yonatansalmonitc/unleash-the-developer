@@ -11,3 +11,9 @@ function displayData(data) {
     
   }
 }
+
+
+
+function milestone1() {
+  console.log('Milestone1')
+}
