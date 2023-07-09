@@ -1,5 +1,7 @@
 console.log('Group project!')
 
+const z = 'This is main'
+const message = 'This is main'
 
 function getData() {
   fetch('afsafasfsafsaf')
