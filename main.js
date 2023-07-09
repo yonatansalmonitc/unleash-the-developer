@@ -1,6 +1,7 @@
 console.log('Group project!')
 
-
+const x = 10;
+const y = 5
 function getData() {
   fetch('afsafasfsafsaf')
 }
