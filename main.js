@@ -21,3 +21,9 @@ function milestone1() {
 
 
 console.log('Hi')
+
+
+
+function greet(message) {
+  console.log('Hi' + message)
+}
