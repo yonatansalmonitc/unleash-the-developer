@@ -44,3 +44,7 @@ function dev1sfunction() {
 function printName(){
   console.log("Dror");
 }
+
+
+
+const arr = [];
